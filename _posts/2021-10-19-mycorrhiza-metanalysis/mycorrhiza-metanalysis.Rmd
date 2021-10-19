@@ -1,0 +1,46 @@
+---
+title: "Effects of mycorrhizal association on litter decomposability traits in the forest ecosystems: A synthesis"
+
+description: |
+  A short description of the post.
+  
+author:
+  - name: Abhishek Kumar
+    url: https://akumar.netlify.app
+    affiliation: Panjab University, Chandigarh
+    affiliation_url: https://puchd.ac.in
+    orcid_id: 0000-0003-2252-7623
+  - name: Meenu Patil
+    affiliation: Panjab University, Chandigarh
+    affiliation_url: https://puchd.ac.in
+  - name: Anand Narain Singh
+    affiliation: Panjab University, Chandigarh
+    affiliation_url: https://puchd.ac.in
+    
+date: 10-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Abstract
+
+The presence of mycorrhiza can either increase or decrease the litter decomposition rates through facilitation or competition. However, empirical evidence about the magnitude and direction of such effects is lacking. To address this knowledge gap, we conducted a meta-analysis of published peer-reviewed literature. Based on four studies, we evaluated the effects of mycorrhiza on litter decomposition rates for eight species. Our meta-analysis exhibited an overall significant decrease (SMD = –0.73, Z = −2.031, p = 0.042) in litter decomposition rate due to the presence of mycorrhiza. However, included studies indicated substantial between-study heterogeneity and slight publication bias. Our results support the ‘Gadgil effect’, suggesting mycorrhizal mediated litter decomposition suppression due to resource competition. However, we need more studies conducted for a longer duration and representative of diverse forest and litter types to arrive at a more robust conclusion.
+
+**Keywords:** gadgil effect; litter decomposition; ectomycorrhiza; arbuscular mycorrhiza; forest ecosystem; meta-analysis
+
+## Introduction
+
+Global environmental change is expected to substantially alter the biogeochemistry and nutrient cycling in forest ecosystems (Shu et al. 2019). Forest ecosystems act as a major sink for soil organic matter and carbon sequestration and store more than half of the carbon (Pan et al. 2011). Litter decomposition is the primary process that releases the nutrients from plant biomass to the soils and regulates global biogeochemistry and nutrient cycling (Shu et al. 2019, Patil et al. 2020). Much of the variations in the litter decomposition rates are explained by climate and litter quality (Zhang et al. 2008, Cornwell et al. 2008). However, the remaining proportion of variation is often attributed to the composition and activity of decomposer organisms (McGuire and Treseder 2010, Sulman et al. 2017). 
+Bacteria and fungi are two major groups of soil decomposer organisms involved in litter decomposition (Palm and Chapela 1998, Schneider et al. 2012, Heijden et al. 2015). Among various fungal groups, mycorrhizal fungi can substantially influence litter decomposition and nutrient cycling because they often act as mediators of nutrients between plants and soil (Finlay 2005, Averill et al. 2014). However, the effects of mycorrhiza on litter decomposition remained equivocal and highly variable in magnitude and direction (Fernandez and Kennedy 2016). Available literature suggests that mycorrhizal fungi can either enhance the litter decomposition by providing carbon-source (Zhu and Ehrenfeld 1996, Shah et al. 2016, Gui et al. 2017, Sterkenburg et al. 2018) or suppress it by competing for same resources with saprotrophic fungi (Gadgil and Gadgil 1971, 1975, Brzostek et al. 2015). Further, some studies suggest that mycorrhiza does not affect litter decomposition (Staaf 1988). The mycorrhizal-mediated suppression of litter decomposition is also known as ‘Gadgil effect’ (Gadgil and Gadgil 1971, 1975). The arbuscular mycorrhiza and ectomycorrhiza can directly enhance litter decomposition by enzyme exudation (Talbot et al., 2015) and indirectly by providing plant-derived carbon sources (Herman et al. 2012, Gorka et al. 2019). The increased availability of labile nutrients can further enhance the activity of free-living bacteria and saprotrophic fungi, leading to higher decomposition rates. Conversely, resource competition between microbial groups and mycorrhizal fungi may result in slower decomposition rates due to lower decomposer activity (Gadgil and Gadgil 1971, Brzostek et al. 2015). Thus, the effects of mycorrhiza remained ambiguous, suggesting more complex mechanisms and contexts than previously thought (Fernandez and Kennedy 2016).
+Almost all the tree species have facultative or obligate associations with mycorrhizal fungi. However, different plants can have one or more mycorrhizal association types depending on the ecosystem and environmental conditions. Arbuscular mycorrhiza is the most commonly associated with vascular plants (Brundrett and Tedersoo 2018). Further, it has been observed that extra-tropical forests are dominated by ectomycorrhizal associations, whereas tropical forests have arbuscular mycorrhizal associations (Steidinger et al. 2019). Thus, terrestrial nutrient cycling can be regulated by the type of mycorrhizal association dominated in the forest.
+ 
+Although few good syntheses about the effects of mycorrhiza on litter decomposition exist (Averill et al. 2014, Fernandez and Kennedy 2016), a quantitative analysis of such effects is lacking. Our primary objective is to quantitatively synthesize the effects of mycorrhiza on litter decomposition rates in forest ecosystems. In addition to this, we will identify the knowledge gaps and suggestions for future investigations. To accomplish this, we carried out a meta-analysis of available data from systematically identified eligible studies. In the meta-analysis, we included a forest plot showing the overall effect of mycorrhiza on litter decomposition, between-study heterogeneity, and a funnel plot for showing publication bias of studies. Then, we discussed the results of all studies briefly. In the end, we draw conclusions of the mycorrhizal effect on litter decomposition based on the results of our meta-analysis. 
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+

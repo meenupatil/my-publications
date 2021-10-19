@@ -1,7 +1,7 @@
 title: "Meenu"
 description: |
   A blog on my publications
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

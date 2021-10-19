@@ -1,0 +1,69 @@
+[
+  {
+    "path": "posts/2021-10-19-mycorrhiza-metanalysis/",
+    "title": "Effects of mycorrhizal association on litter decomposability traits in the forest ecosystems: A synthesis",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Abhishek Kumar",
+        "url": "https://akumar.netlify.app"
+      },
+      {
+        "name": "Meenu Patil",
+        "url": {}
+      },
+      {
+        "name": "Anand Narain Singh",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-19",
+    "categories": [],
+    "contents": "\r\nAbstract\r\nThe presence of mycorrhiza can either increase or decrease the litter decomposition rates through facilitation or competition. However, empirical evidence about the magnitude and direction of such effects is lacking. To address this knowledge gap, we conducted a meta-analysis of published peer-reviewed literature. Based on four studies, we evaluated the effects of mycorrhiza on litter decomposition rates for eight species. Our meta-analysis exhibited an overall significant decrease (SMD = –0.73, Z = −2.031, p = 0.042) in litter decomposition rate due to the presence of mycorrhiza. However, included studies indicated substantial between-study heterogeneity and slight publication bias. Our results support the ‘Gadgil effect’, suggesting mycorrhizal mediated litter decomposition suppression due to resource competition. However, we need more studies conducted for a longer duration and representative of diverse forest and litter types to arrive at a more robust conclusion.\r\nKeywords: gadgil effect; litter decomposition; ectomycorrhiza; arbuscular mycorrhiza; forest ecosystem; meta-analysis\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-19T12:37:47-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-10-09-2020-abhishek-jsr/",
+    "title": "Shivalik, Siwalik, Shiwalik or Sivalik: Which one is an appropriate term for the foothills of Himalayas?",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Abhishek Kumar",
+        "url": "https://akumar.netlify.app"
+      },
+      {
+        "name": "Meenu Patil",
+        "url": {}
+      },
+      {
+        "name": "Anand Narain Singh",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-09",
+    "categories": [],
+    "contents": "\r\nAbstract\r\nThis is a good abstract\r\nIntroduction\r\nIntroduce here\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-09T16:18:06-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to &quot;Meenu&quot;",
+    "description": "Welcome to our new blog, &quot;Meenu&quot;. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-10-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-09T15:50:35-07:00",
+    "input_file": {}
+  }
+]
