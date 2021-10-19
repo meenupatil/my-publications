@@ -1,0 +1,34 @@
+---
+title: "Shivalik, Siwalik, Shiwalik or Sivalik: Which one is an appropriate term for the foothills of Himalayas?"
+description: |
+  A short description of the post.
+author:
+  - name: Abhishek Kumar
+    url: https://akumar.netlify.app
+    affiliation: Panjab University, Chandigarh
+    affiliation_url: https://puchd.ac.in
+    orcid_id: 0000-0003-2252-7623
+  - name: Meenu Patil
+    affiliation: Panjab University, Chandigarh
+    affiliation_url: https://puchd.ac.in
+  - name: Anand Narain Singh
+    affiliation: Panjab University, Chandigarh
+    affiliation_url: https://puchd.ac.in
+    
+date: 10-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Abstract
+ This is a good abstract
+ 
+## Introduction
+
+Introduce here

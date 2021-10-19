@@ -15,5 +15,30 @@
     "preview": {},
     "last_modified": "2021-10-09T15:50:35-07:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-10-09-2020-abhishek-jsr/",
+    "title": "Shivalik, Siwalik, Shiwalik or Sivalik: Which one is an appropriate term for the foothills of Himalayas?",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Abhishek Kumar",
+        "url": "https://akumar.netlify.app"
+      },
+      {
+        "name": "Meenu Patil",
+        "url": {}
+      },
+      {
+        "name": "Anand Narain Singh",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-09",
+    "categories": [],
+    "contents": "\r\nAbstract\r\nThis is a good abstract\r\nIntroduction\r\nIntroduce here\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-09T16:18:05-07:00",
+    "input_file": "2020-abhishek-jsr.knit.md"
   }
 ]
