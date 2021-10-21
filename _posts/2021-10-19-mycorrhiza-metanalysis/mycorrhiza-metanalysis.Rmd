@@ -13,6 +13,7 @@ author:
   - name: Meenu Patil
     affiliation: Panjab University, Chandigarh
     affiliation_url: https://puchd.ac.in
+    
   - name: Anand Narain Singh
     affiliation: Panjab University, Chandigarh
     affiliation_url: https://puchd.ac.in
@@ -36,11 +37,11 @@ The presence of mycorrhiza can either increase or decrease the litter decomposit
 
 ## Introduction
 
-Global environmental change is expected to substantially alter the biogeochemistry and nutrient cycling in forest ecosystems [@Shu2019]. Forest ecosystems act as a major sink for soil organic matter and carbon sequestration and store more than half of the carbon (Pan et al. 2011). Litter decomposition is the primary process that releases the nutrients from plant biomass to the soils and regulates global biogeochemistry and nutrient cycling (Shu et al. 2019, Patil et al. 2020). Much of the variations in the litter decomposition rates are explained by climate and litter quality (Zhang et al. 2008, Cornwell et al. 2008). However, the remaining proportion of variation is often attributed to the composition and activity of decomposer organisms (McGuire and Treseder 2010, Sulman et al. 2017). 
-Bacteria and fungi are two major groups of soil decomposer organisms involved in litter decomposition (Palm and Chapela 1998, Schneider et al. 2012, Heijden et al. 2015). Among various fungal groups, mycorrhizal fungi can substantially influence litter decomposition and nutrient cycling because they often act as mediators of nutrients between plants and soil (Finlay 2005, Averill et al. 2014). However, the effects of mycorrhiza on litter decomposition remained equivocal and highly variable in magnitude and direction (Fernandez and Kennedy 2016). Available literature suggests that mycorrhizal fungi can either enhance the litter decomposition by providing carbon-source (Zhu and Ehrenfeld 1996, Shah et al. 2016, Gui et al. 2017, Sterkenburg et al. 2018) or suppress it by competing for same resources with saprotrophic fungi (Gadgil and Gadgil 1971, 1975, Brzostek et al. 2015). Further, some studies suggest that mycorrhiza does not affect litter decomposition (Staaf 1988). The mycorrhizal-mediated suppression of litter decomposition is also known as ‘Gadgil effect’ (Gadgil and Gadgil 1971, 1975). The arbuscular mycorrhiza and ectomycorrhiza can directly enhance litter decomposition by enzyme exudation (Talbot et al., 2015) and indirectly by providing plant-derived carbon sources (Herman et al. 2012, Gorka et al. 2019). The increased availability of labile nutrients can further enhance the activity of free-living bacteria and saprotrophic fungi, leading to higher decomposition rates. Conversely, resource competition between microbial groups and mycorrhizal fungi may result in slower decomposition rates due to lower decomposer activity (Gadgil and Gadgil 1971, Brzostek et al. 2015). Thus, the effects of mycorrhiza remained ambiguous, suggesting more complex mechanisms and contexts than previously thought (Fernandez and Kennedy 2016).
-Almost all the tree species have facultative or obligate associations with mycorrhizal fungi. However, different plants can have one or more mycorrhizal association types depending on the ecosystem and environmental conditions. Arbuscular mycorrhiza is the most commonly associated with vascular plants (Brundrett and Tedersoo 2018). Further, it has been observed that extra-tropical forests are dominated by ectomycorrhizal associations, whereas tropical forests have arbuscular mycorrhizal associations (Steidinger et al. 2019). Thus, terrestrial nutrient cycling can be regulated by the type of mycorrhizal association dominated in the forest.
+Global environmental change is expected to substantially alter the biogeochemistry and nutrient cycling in forest ecosystems [@Shu2019]. Forest ecosystems act as a major sink for soil organic matter and carbon sequestration and store more than half of the carbon [@Pan2011]. Litter decomposition is the primary process that releases the nutrients from plant biomass to the soils and regulates global biogeochemistry and nutrient cycling [@Shu2019; @Patil2020]. Much of the variations in the litter decomposition rates are explained by climate and litter quality [@Zhang2008; @Cornwell2008]. However, the remaining proportion of variation is often attributed to the composition and activity of decomposer organisms [@McGuire2010; @Sulman2017]. 
+Bacteria and fungi are two major groups of soil decomposer organisms involved in litter decomposition [@Palm1998; @Schneider2012; @Heijden2015]. Among various fungal groups, mycorrhizal fungi can substantially influence litter decomposition and nutrient cycling because they often act as mediators of nutrients between plants and soil [@Finlay2005; @Averill2014]. However, the effects of mycorrhiza on litter decomposition remained equivocal and highly variable in magnitude and direction [@Fernandez2016]. Available literature suggests that mycorrhizal fungi can either enhance the litter decomposition by providing carbon-source [@Zhu1996; @Shah2016; @Gui2017; @Sterkenburg2018] or suppress it by competing for same resources with saprotrophic fungi [@Gadgil1971; @Gadgil1975; @Brzostek2015]. Further, some studies suggest that mycorrhiza does not affect litter decomposition [@Staaf1988]. The mycorrhizal-mediated suppression of litter decomposition is also known as ‘Gadgil effect’ [@Gadgil1971; @Gadgil1975]. The arbuscular mycorrhiza and ectomycorrhiza can directly enhance litter decomposition by enzyme exudation [@Talbot2015] and indirectly by providing plant-derived carbon sources [@Herman2012;@Gorka2019]. The increased availability of labile nutrients can further enhance the activity of free-living bacteria and saprotrophic fungi, leading to higher decomposition rates. Conversely, resource competition between microbial groups and mycorrhizal fungi may result in slower decomposition rates due to lower decomposer activity [@GadgilandGadgil1971; @Brzostek2015]. Thus, the effects of mycorrhiza remained ambiguous, suggesting more complex mechanisms and contexts than previously thought [@FernandezandKennedy2016].
+Almost all the tree species have facultative or obligate associations with mycorrhizal fungi. However, different plants can have one or more mycorrhizal association types depending on the ecosystem and environmental conditions. Arbuscular mycorrhiza is the most commonly associated with vascular plants [@BrundrettandTedersoo2018]. Further, it has been observed that extra-tropical forests are dominated by ectomycorrhizal associations, whereas tropical forests have arbuscular mycorrhizal associations [@Steidinger2019]. Thus, terrestrial nutrient cycling can be regulated by the type of mycorrhizal association dominated in the forest.
  
-Although few good syntheses about the effects of mycorrhiza on litter decomposition exist (Averill et al. 2014, Fernandez and Kennedy 2016), a quantitative analysis of such effects is lacking. Our primary objective is to quantitatively synthesize the effects of mycorrhiza on litter decomposition rates in forest ecosystems. In addition to this, we will identify the knowledge gaps and suggestions for future investigations. To accomplish this, we carried out a meta-analysis of available data from systematically identified eligible studies. In the meta-analysis, we included a forest plot showing the overall effect of mycorrhiza on litter decomposition, between-study heterogeneity, and a funnel plot for showing publication bias of studies. Then, we discussed the results of all studies briefly. In the end, we draw conclusions of the mycorrhizal effect on litter decomposition based on the results of our meta-analysis. 
+Although few good syntheses about the effects of mycorrhiza on litter decomposition exist [@Averill2014; @FernandezandKennedy2016], a quantitative analysis of such effects is lacking. Our primary objective is to quantitatively synthesize the effects of mycorrhiza on litter decomposition rates in forest ecosystems. In addition to this, we will identify the knowledge gaps and suggestions for future investigations. To accomplish this, we carried out a meta-analysis of available data from systematically identified eligible studies. In the meta-analysis, we included a forest plot showing the overall effect of mycorrhiza on litter decomposition, between-study heterogeneity, and a funnel plot for showing publication bias of studies. Then, we discussed the results of all studies briefly. In the end, we draw conclusions of the mycorrhizal effect on litter decomposition based on the results of our meta-analysis. 
 
 ## Methods
 
@@ -63,7 +64,7 @@ library(tidyverse)
 ```
 
 
-Our methodology consisted of four phases, i.e., searching, screening, data extraction, and meta-analysis. We performed a systematic literature search and screening as suggested by Collaboration on Environmental Evidence (Pullin et al. 2018). 
+Our methodology consisted of four phases, i.e., searching, screening, data extraction, and meta-analysis. We performed a systematic literature search and screening as suggested by Collaboration on Environmental Evidence [@Pullin2018]. 
 
 ### Literature search
 
@@ -71,7 +72,7 @@ We systematically searched Scopus (https://scopus.com/) and Web of Science Core 
 
 ### Article screening
 
-Our article screening involved de-duplication, title and abstract screening, and full-text screening. We left with 1,455 records after de-duplication, and 641 duplicates were removed (Figure 1). All these records were imported to freely available Mendeley reference management software for further screening. We manually screened titles and abstracts of each document following a pre-defined criterion (see Supplementary Information). Based on the title and abstract screening, we excluded 1,265 articles and left with 190 articles (Figure 1). We could not retrieve the full-text of six articles (see Supplementary Information) and, therefore, excluded these six articles. Next, the full text of each article was screened based on PICO inclusion and exclusion criteria (Supplementary Table S3). Full-text screening resulted in the exclusion of 181 articles based on PICO criteria (Figure 1). Thus, we were finally left with only three eligible studies (Entry et al. 1991, Zhu and Ehrenfeld 1996, Lang et al. 2021).
+Our article screening involved de-duplication, title and abstract screening, and full-text screening. We left with 1,455 records after de-duplication, and 641 duplicates were removed (Figure 1). All these records were imported to freely available Mendeley reference management software for further screening. We manually screened titles and abstracts of each document following a pre-defined criterion (see Supplementary Information). Based on the title and abstract screening, we excluded 1,265 articles and left with 190 articles (Figure 1). We could not retrieve the full-text of six articles (see Supplementary Information) and, therefore, excluded these six articles. Next, the full text of each article was screened based on PICO inclusion and exclusion criteria (Supplementary Table S3). Full-text screening resulted in the exclusion of 181 articles based on PICO criteria (Figure 1). Thus, we were finally left with only three eligible studies [@Entry1991; @ZhuandEhrenfeld1996; @Lang2021).
 
 ```{r include=F, eval=FALSE}
 library(synthesisr)
@@ -100,8 +101,8 @@ resultsref <- extract_unique_references(df, newduplicates)
 We further employed snowballing method to identify related eligible studies. We could not identify any eligible related study based on references of selected studies (backward snowballing). However, two more eligible articles (Mayor and Henkel 2006, Fernandez et al. 2020) were identified through forward snowballing (citation tracking). Thus, five studies were included after article screening and snowballing.
 
 ### Data extraction
-To test our hypothesis, we needed data on litter decomposition rates in the presence and absence of any mycorrhiza. The litter decomposition rate is often expressed as annual decay constant usually estimated from Olson’s single exponential model (Olson 1963). Therefore, we aimed to extract the decay constant (k) and associated standard error (SE) or standard deviation (SD) for each study to establish uniformity in our analysis. Unfortunately, not all the studies have reported these parameters directly; however, most of the studies represented mass remaining at different times intervals (Zhu and Ehrenfeld 1996, Mayor and Henkel 2006, Fernandez et al. 2020, Lang et al. 2021). In such cases, we extracted each remaining mass value in triplicate (one mean value and two standard error of mean values) at each given time interval using WebPlotDigitizer (https://automeris.io/WebPlotDigitizer/). Thus, the actual number of replicate litterbags at each sampling time was not taken into account; instead, we considered each data point as a sample to obtain a more uniform and comparable measure of litter mass remaining. In case of any ambiguity in timings, we considered the time stated in the methodology section of the published article (Lang et al. 2021). 
-The decay constant (k) and its associated standard error (SE) was estimated for each species by fitting a linearized form of Olson’s single exponential decay model (Olson 1963): 
+To test our hypothesis, we needed data on litter decomposition rates in the presence and absence of any mycorrhiza. The litter decomposition rate is often expressed as annual decay constant usually estimated from Olson’s single exponential model (Olson 1963). Therefore, we aimed to extract the decay constant (k) and associated standard error (SE) or standard deviation (SD) for each study to establish uniformity in our analysis. Unfortunately, not all the studies have reported these parameters directly; however, most of the studies represented mass remaining at different times intervals [@ZhuandEhrenfeld1996; @MayorandHenkel2006; @Fernandez2020, @Lang2021]. In such cases, we extracted each remaining mass value in triplicate (one mean value and two standard error of mean values) at each given time interval using WebPlotDigitizer (https://automeris.io/WebPlotDigitizer/). Thus, the actual number of replicate litterbags at each sampling time was not taken into account; instead, we considered each data point as a sample to obtain a more uniform and comparable measure of litter mass remaining. In case of any ambiguity in timings, we considered the time stated in the methodology section of the published article [@Lang2021]. 
+The decay constant (k) and its associated standard error (SE) was estimated for each species by fitting a linearized form of Olson’s single exponential decay model [@Olson1963]: 
 
 $$
 \log(W_t) = -kt + \log(W_0) \\
@@ -111,27 +112,54 @@ Where $W_0$ is the initial litter mass, Wt is the mass remaining at time t, and 
 In addition to this, we recorded the plant species, mycorrhizal types, forest ecosystem types, litter types, and geographic coordinates of study sites. Further, we also noted technical information about methodologies, including the number of experiments per the study, duration of the experiment, exclusion method for mycorrhiza, and the characteristics of litter and litter bags.
 
 ### Meta-analysis
-Effect sizes are often used to summarize the magnitude and direction of the relationship between two variables (Cooper et al. 2009, Grissom and Kim 2012). Among various available effect sizes, Standardized Mean Difference (SMD) is frequently used to compare the means between two groups, i.e., treatment and control (Hedges and Olkin 1985, Gurevitch et al. 1992, Koricheva et al. 1998). The SMD or Hedge’s g is defined as the difference in the means between two independent groups standardized by the pooled standard deviation (Hedges 1981, Harrer et al. 2021). We calculated the SMD for decay constant between treatment and control groups using the following formula:
+Effect sizes are often used to summarize the magnitude and direction of the relationship between two variables [@Cooper2009, @GrissomandKim2012]. Among various available effect sizes, Standardized Mean Difference (SMD) is frequently used to compare the means between two groups, i.e., treatment and control [@HedgesandOlkin1985; @Gurevitch1992; @Koricheva1998]. The SMD or Hedge’s g is defined as the difference in the means between two independent groups standardized by the pooled standard deviation [@Hedges1981; @Harrer2021]. We calculated the SMD for decay constant between treatment and control groups using the following formula:
 〖SMD〗_between=((k_t-k_c))/S_pooled 
 Where k_t and k_c represents the k value of treatment and control, respectively, and Spooled is the pooled standard error calculated as following:
 S_pooled= √(((n_t-1) s_(t )^(2 )+  (n_c-1) s_(c )^(2 ))/(n_t+n_c-2))  
 Where nt and nc denotes the sample sizes for treatment and control, respectively, and st and sc indicating corresponding standard errors. Effect sizes can be further partitioned according to various variables included in the meta-analysis (known as subgroup analysis). However, we could not carry out such subgroup analysis because either data was insufficient or groups were biased.
-After calculating effect size, we used the random-effects model to pool the effect sizes and estimate variations of effect sizes between studies. The random-effects model assumes that there is not only one true effect size but a distribution of true effect sizes (Borenstein et al. 2010, Harrer et al. 2021). In contrary to the fixed effects model, the random-effects model considers that the observed effect size (θ ̂_k) for a single study k deviate from mean true effect size μ by two error terms ζk (between-study heterogeneity) and ϵk (sampling error). Thus, the random-effects model can be mathematically expressed as follows:
+After calculating effect size, we used the random-effects model to pool the effect sizes and estimate variations of effect sizes between studies. The random-effects model assumes that there is not only one true effect size but a distribution of true effect sizes [@Borenstein2010, @Harrer2021]. In contrary to the fixed effects model, the random-effects model considers that the observed effect size (θ ̂_k) for a single study k deviate from mean true effect size μ by two error terms ζk (between-study heterogeneity) and ϵk (sampling error). Thus, the random-effects model can be mathematically expressed as follows:
 θ ̂_k=〖〖 μ +ζ〗_k+ϵ〗_k
-The between-study heterogeneity reflects the variations in true effect sizes within the meta-analysis. However, the random-effects model considers two sources of variation, i.e., between-study heterogeneity and sampling error. Cochran’s Q is traditionally used in meta-analysis to distinguish sampling error from actual between-study heterogeneity (Cochran 1954). It is estimated using the following formula:
+The between-study heterogeneity reflects the variations in true effect sizes within the meta-analysis. However, the random-effects model considers two sources of variation, i.e., between-study heterogeneity and sampling error. Cochran’s Q is traditionally used in meta-analysis to distinguish sampling error from actual between-study heterogeneity [@Cochran1954]. It is estimated using the following formula:
 Q= ∑_(k=1)^K▒〖(θ ̂_k-  θ ̂)〗^2/(s_k^2 )
 where θ ̂_k is the observed effect for each study k; θ ̂ is the summary effect, and sk is the standard deviation for study k.
-Further, Higgins and Thompson’s I2 statistic presents the more standardized form to estimate the between-study heterogeneity. It is defined as the percentage of variability in the effect size that is not caused by sampling error (Higgins and Thompson 2002). Similarly, the H2 statistic is used to describe the variance in observed effect sizes due to sampling error (Higgins and Thompson 2002). It is estimated as the ratio of the observed variation, measured by Cochran's Q, and the expected variance due to sampling error.
+Further, Higgins and Thompson’s I2 statistic presents the more standardized form to estimate the between-study heterogeneity. It is defined as the percentage of variability in the effect size that is not caused by sampling error [@HigginsandThompson2002]. Similarly, the H2 statistic is used to describe the variance in observed effect sizes due to sampling error [@HigginsandThompson2002]. It is estimated as the ratio of the observed variation, measured by Cochran's Q, and the expected variance due to sampling error.
 I^2=(Q-(K-1))/Q; H^2=  Q/(K-1)
 Where Q is Cochran's Q, “K – 1” is the degrees of freedom, and K is the total number of studies included in the meta-analysis. 
 The publication bias in the average effect size was assessed using the classical funnel plot. It is a scatter plot of the observed effect size for each study on the x-axis against a measure of the standard error on the y-axis of each study. In the absence of any publication bias, effect size distribution should roughly follow the funnel shape in the plot. Further, we conducted a regression test to assess the asymmetry in the funnel plot. The regression was carried using a mixed-effects meta-regression model and standard error as the predictor. 
-All analyses were performed in R statistical environment version 4.1.0 (R Core Team 2021). The R package synthesisr (Westgate and Grames 2020) was used for de-duplication of articles, 
-package metafor (Viechtbauer 2010) for statistical meta-analysis, and package tidyverse (Wickham et al. 2019) for general data manipulation and visualization. Further, R package sf  (Pebesma 2018) and tmap (Tennekes 2018) were used to prepare the studies map.
+All analyses were performed in R statistical environment version 4.1.0 (R Core Team 2021). The R package synthesisr [@WestgateandGrames2020] was used for de-duplication of articles, 
+package metafor [@Viechtbauer2010] for statistical meta-analysis, and package tidyverse (Wickham et al. 2019) for general data manipulation and visualization. Further, R package sf  (Pebesma 2018) and tmap (Tennekes 2018) were used to prepare the studies map.
 
 ## Results
 
 Our systematic literature search and screening found five eligible studies for the present analysis (Figure 1). However, a preliminary meta-analysis revealed that one study had disproportionately higher effect size and substantial publication bias. We decided to exclude this study from the final meta-analysis to maintain comparable studies. When further excluded from the final meta-analysis due to high bias in effect size (Entry et al. 1991). Thus, only four studies were included in the final meta-analysis (Zhu and Ehrenfeld 1996, Mayor and Henkel 2006, Fernandez et al. 2020, Lang et al. 2021). 
 Our dataset revealed that most studies were conducted in the temperate deciduous forest of North America (n = 3), and only one study was conducted in the tropical forest of Guyana of South America’s North Atlantic Coast (Figure 2). The earliest study included was from 1996 (Zhu and Ehrenfeld 1996), whereas the latest study was published in 2021 (Fernandez et al. 2020, Lang et al. 2021).
+
+```{r fig2, layout="l-body-outset", fig.cap="Geographical distribution of experimental sites indicates that all the four studies were reported from the Americas."}
+
+library(sf)
+library(tmap)
+data("World")
+
+df <- data.frame(
+        number = 1:4, 
+        study = c("Zhu & Ehrenfeld (1996)", "Mayor & Henkel (2006)",
+                  "Fernandez et al (2020)", "Lang et al (2021)"), 
+        lat = c(39.8750, 5.3013, 45.423585, 43.9333),
+        long = c(-74.5083, -59.9112, -093.20181, -71.7667)
+) |> st_as_sf(coords = c("long", "lat"), crs = 4326)
+
+tm_shape(World, bbox = c(-180, -90, -30, 90)) + tm_fill() + 
+        tm_borders(col = "white")+
+        tm_graticules(col = "grey80", labels.size = 1) +
+        tm_shape(df) + 
+        tm_symbols(col = "study", 
+                   palette = c("orange", "pink", "yellowgreen", "skyblue"), 
+                   title.col = "Study", alpha = 1, size = 1.2) +
+        tm_layout(frame.double.line = F, legend.frame = T,
+                  legend.text.size = 1, legend.width = 0.8, 
+                  legend.title.size = 1.5)
+```
+
 
 ### Overview of studies
 
@@ -170,18 +198,137 @@ ggplot(data = dat_long, aes(x = mwtc, y = mwtt)) +
 The overall effect size or SMD of −0.73 (95% CI: −1.44, −0.03) indicated that mycorrhiza tends to significantly decrease litter decomposition rate (Z = −2.031, p = 0.042). This negative effect is also evident in the forest plot, where the left-side position of the diamond demonstrates that litter decomposition rate decreased in the presence of mycorrhiza (Figure 4). Further, the prediction interval around the effect size ranges from –2.69 to 1.23, suggesting that future studies will also find similar effects. However, a higher number of studies are expected to observe negative effects on litter decomposition rates.
 Further, we observed substantial between-study heterogeneity in our meta-analysis, suggesting that species highly influence the effects of mycorrhiza on litter decomposition rate. The high value of Higgins & Thompson’s statistic (I2 = 85.07%; 95% CI: 65.39, 96.43) indicated large between-study heterogeneity estimated at τ2 = 0.87 (95% CI: 0.29, 4.12). This large heterogeneity is also evident from a highly significant the Cochran’s Q test for heterogeneity (Q = 47.55, df = 7, p < 0.0001). Similarly, the H2 statistic revealed that the differences in observed effect size θ ̂_i  due to sampling error were smaller (H2 = 6.69%; 95% CI: 2.89, 28.04).
 
+```{r fig4, fig.height=6, fig.width=8, layout="l-body-outset", fig.cap="Forest plot showing the effects of mycorrhiza on litter decomposition rates for different plant species. The size of each square is proportional to the weight of each study, and the lines represent the confidence interval associated with effect size. The diamond at the bottom represents the overall effect size, and its length represents the confidence interval. The dotted line represents the prediction interval."}
+
+dat_raw <- read.csv("data/raw.csv")
+dat_long <- dat_raw |> select(-1) |> 
+  pivot_longer(cols = c(mwtc, sewtc1, sewtc2), 
+               names_to = "control", values_to = "mwtc") |>
+  pivot_longer(cols = c(mwtt, sewtt1, sewtt2), 
+               names_to = "treatment", values_to = "mwtt") |>
+  select(-c(control, treatment))
+
+dat <- dat_long |> 
+  group_by(author, year, species, n) |>
+  summarise(mkc = summary(lm(log(mwtc)~time))$coefficients[2,1],
+            sekc = summary(lm(log(mwtc)~time))$coefficients[2,2],
+            mkt = summary(lm(log(mwtt)~time))$coefficients[2,1],
+            sekt = summary(lm(log(mwtt)~time))$coefficients[2,2]) |>
+  mutate(sdkt = sekt * sqrt(n),
+         sdkc = sekc * sqrt(n))
+
+### calculate standardized mean difference (SMD) and corresponding sampling variances
+### the 'slab' argument to store study labels as part of the data frame)
+efs <- escalc(measure = "SMD", 
+              m1i = mkt, sd1i = sdkt, n1i = n, 
+              m2i = mkc, sd2i = sdkc, n2i = n, 
+              data = dat,
+              slab = species
+		  )
+
+res <- rma(yi, vi, data = efs, 
+           method = "REML",
+           slab = species
+           )
+summary(res)
+
+confint(res)
+
+forest(x = res, annotate = T, addfit = T, addpred = T, showweights = F, 
+       col = "red",
+       header = "Species", 
+       xlim = c(-16, 9), ylim = c(-2, 11),
+       ilab = cbind(paste0(dat$author, " (", dat$year, ")"), res$weights),
+       ilab.xpos = -10.5, ilab.pos = 4,
+       mlab = "", order = "obs")
+
+text(x = -16, y = -1, pos = 4, cex = 1, 
+     labels = bquote(
+         paste("RE Model (Q = ", 
+               .(formatC(res$QE, digits=2, format="f")), 
+               ", df = ", 
+               .(res$k - res$p),
+               ", p = ", 
+               .(formatC(res$QEp, digits=2, format="f")), 
+               "; ", I^2, " = ",
+               .(formatC(res$I2, digits=1, format="f")), 
+               "%)"
+         )
+     )
+)
+
+text(x = -10.3, y = 10, labels = "Author(s) and Year", adj = c(0, 0.5), font = 2)
+text(x = -16, y = -2, 
+     labels = paste0("Test for overall effect size (Z = ", round(res$zval, 3),
+                     ", p = ", round(res$pval, 3), ")"), pos = 4)
+
+```
+
+
 ### Publication bias
-The visual inspection of the funnel plot indicated slight asymmetry as a greater number of studies have more negative values for the effect size than the average effect size (Figure 5). This slight asymmetry is possibly caused by small-study effects as two small studies (in the lower-left corner) with low precision exhibited a highly negative effect size. However, these studies have no equivalent studies (in the lower right corner) to balance the effect size. Another important observation is that one study with higher precision and moderate positive effect is well outside the delineated funnel (Figure 5). This study’s deviation from the funnel pattern suggests that its effect is smaller than expected. However, only one study outside the funnel is insignificant, and all other studies have significant effect sizes despite low precision. The intercept estimated from regression (β0 = 3.18; 95% CI: –0.20, 6.56) was significantly higher than zero (Z = –2.29, p = 0.02) indicating that a significant asymmetry in our funnel plot (Figure 5). Thus, the substantial asymmetry in the funnel plot suggests small-study effects; however, it is not certain that this asymmetry is caused by publication bias. 
+The visual inspection of the funnel plot indicated slight asymmetry as a greater number of studies have more negative values for the effect size than the average effect size (Figure 5). This slight asymmetry is possibly caused by small-study effects as two small studies (in the lower-left corner) with low precision exhibited a highly negative effect size. However, these studies have no equivalent studies (in the lower right corner) to balance the effect size. Another important observation is that one study with higher precision and moderate positive effect is well outside the delineated funnel (Figure 5). This study’s deviation from the funnel pattern suggests that its effect is smaller than expected. However, only one study outside the funnel is insignificant, and all other studies have significant effect sizes despite low precision. The intercept estimated from regression (β0 = 3.18; 95% CI: –0.20, 6.56) was significantly higher than zero (Z = –2.29, p = 0.02) indicating that a significant asymmetry in our funnel plot (Figure 5). Thus, the substantial asymmetry in the funnel plot suggests small-study effects; however, it is not certain that this asymmetry is caused by publication bias.
+
+```{r fig5, layout="l-body-outset", fig.cap= "The contour-enhanced funnel plot shows the effect size of each study (expressed as the standardized mean difference) on the x-axis against a measure of their standard error (from large to small) on the y-axis. The vertical lines in the middle of the funnel show the average effect size and associated 95% confidence interval. The shaded region indicates the different significance levels for the estimated effect size for each study." }
+
+res |> funnel(level=c(90, 95, 99), shade=c("white", "gray85", "gray90"), refline = 0,
+              refline2 = -0.73, lty = 0, 
+              legend=F,
+              pch = 21, col = "red", bg = "pink", back = "grey95", cex = 2)
+
+legend(x = "topright",
+       legend = c(expression(paste("0.10" < p, "" <= "1.00")),
+                  expression(paste("0.05" < p, "" <= "0.10")),
+                  expression(paste("0.01" < p, "" <= "0.05")),
+                  expression(paste("0.00" < p, "" <= "0.01")),
+                  "Species"
+       ),
+       pch = c(22, 22, 22, 22, 21),
+       col = c("black", "black", "black", "black", "red"),
+       pt.bg = c("white", "grey85", "grey90", "grey95", "pink"),
+       pt.cex = 2, pt.lwd = 1, text.width = 0.75
+)
+
+egg <- res |> regtest()
+
+text(x = -2.5, y = 0.03, labels = "Regression test for asymmetry:", adj = 0)
+
+text(x = -2.5, y = 0.061,
+     labels = bquote(paste(
+         beta[0] == .(formatC(egg$est, digits=2, format="f")),
+         " [", .(formatC(egg$ci.lb, digits=2, format="f")), ", ",   
+             .(formatC(egg$ci.ub, digits=2, format="f")), "]"
+     )),
+     adj = 0
+)
+
+text(x = -2.5, y = 0.09, 
+     labels = bquote(paste(
+         z == .(formatC(egg$zval, digits=2, format="f")),
+         ", ", 
+         p == .(formatC(egg$pval, digits=2, format="f"))
+     )),
+     adj = 0
+)
+```
+
+
 
 ## Discussion
 
 Mycorrhizal presence can substantially influence the rate of litter decomposition and nutrient cycling in terrestrial ecosystems (Fernandez and Kennedy 2016). They can slow down the litter decomposition rate by competing for resources with other free-living decomposers (Fernandez et al. 2020). This mycorrhizal-mediated decreased in litter decomposition rates due to competition among soil microorganisms is known as ‘Gadgil effect’ (Gadgil and Gadgil 1971, 1975). Our results also indicated that mycorrhiza significantly slows down the litter decomposition rate for all the species, thus providing support for the ‘Gadgil effect’. This finding is consistent with several previous studies where a similar mycorrhizal-mediated decrease in litter decomposition was also observed (Fisher and Gosz 1986, Faber and Verhoef 1991, Parmelee et al. 1993, Koide and Wu 2003). However, studies have shown that the magnitude and direction of ‘Gadgil effect’ are highly inconsistent and variable (Fernandez and Kennedy 2016). The litter decomposition rate can be either enhanced (Zhu and Ehrenfeld 1996, Sterkenburg et al. 2018), retarded (Gadgil and Gadgil 1971, 1975, Fisher and Gosz 1986, Faber and Verhoef 1991, Parmelee et al. 1993, Koide and Wu 2003) or remain unchanged (Staaf 1988, Mayor and Henkel 2006). 
+
 The presence of mycorrhiza can slow down the decomposition rate by suppressing the activity of decomposer organisms due to competition for energy sources and nutrients (Gadgil and Gadgil 1971). Such suppression of decomposer microorganisms is observed for ectomycorrhizal (Gadgil and Gadgil 1971) and arbuscular mycorrhizal fungi (Leifheit et al. 2015). The specialized enzymatic suite and foraging behavior of these mycorrhizal fungi might enable them to outcompete the saprotrophic fungi or other decomposer organisms (Averill et al. 2014, Talbot et al. 2015). Ectomycorrhizal fungi can uptake nitrogen from the litter leading to a higher C:N (carbon to nitrogen) ratio, which suppresses the colonization and activity of saprotrophic fungi (Orwin et al. 2011, Averill et al. 2014). In addition to this, the ectomycorrhizal fungi seem to be less involved in decomposing carbon-containing compounds because they acquire carbon-source from their host. It is observed that forests with higher ectomycorrhizal-associated plants tend to have more soil organic matter than the other forests (Averill et al. 2014). Thus, it may be possible that ectomycorrhizal fungi might be evolving to acquire nitrogen and other nutrients rather than carbon resources. This speculation is supported by the loss of many genes responsible for degrading the plant cell wall in the recent descendants of ectomycorrhizal fungi (Kohler et al. 2015).
+
 Further, the mycorrhizal fungi are known to secrete some antibiotics or other antagonistic compounds that can inhibit decomposer organisms' growth and activity, especially saprotrophic fungi (Krywolap et al. 1964, Rasanayagam and Jeffries 1992). Moreover, mycoparasitism might also be responsible for suppressing other decomposer organisms (Kubicek et al. 2011). Since mycoparasitism is widespread among fungal groups and fungal biomass has more labile nutrients (Fernandez and Koide 2012), there is a possibility of parasitism of saprotrophic fungi by mycorrhizal fungi. Additionally, mycorrhizal fungi might have modified the environmental conditions leading to the suppression of decomposer organisms. For example, mycorrhiza can reduce moisture content by increasing water uptake leading to slow decomposition rates (Koide and Wu 2003) because they help more water absorption by plants (Brownlee et al. 1983, Fisher and Gosz 1986). 
+
 As suggested by our meta-analysis, a greater number of studies are expected to observe negative effects followed by neutral effects, and fewer studies will observe positive effects. However, it seems that various factors modulate the effects of mycorrhiza on litter decomposition rate; therefore, these effects can be context-dependent (Fernandez and Kennedy 2016). The litter decomposition rate may either hamper or stimulate depending upon stage of decomposition, soil profile, climatic condition, plant species, and fungal species (Fernandez and Kennedy 2016, Sterkenburg et al. 2018). Our meta-analysis also demonstrated variability of mycorrhizal-mediated effects on litter decomposition as the effect sizes differed for species. This species-specific variation in mycorrhizal effects can be attributed to the resource allocation strategy of plant species. When mycorrhizal fungi receive more carbon from the host plant, it can invest more in enzymes and secondary metabolites, increasing their competitive ability (Rineau et al. 2013). Increased competitive ability will eventually suppress the activity of saprotrophic fungi and thus, result in slower decomposition rates. Further, the species identity can indirectly affect mycorrhizal effects through the quality of litter produced by a species. If a species will produce ‘high quality’ litter (low lignin and high nitrogen), mycorrhizal effects will be weaker due to higher activity of saprotrophic fungi and decomposer microorganisms whereas ‘low quality’ litter (high lignin low nitrogen) will favor strong mycorrhizal effects as it will become accessible to the mycorrhizal fungi. 
+
 The rate of litter decomposition has also been observed to increase in the presence of ectomycorrhizal fungi (Shah et al. 2016) and arbuscular mycorrhizal fungi (Gui et al. 2017). The ectomycorrhizal mediated enhancement was suggested to be associated with the secretion of enzymes to acquire nutrients from organic matter (Jackson et al. 2019). These enzymes degrade the complex compounds and make them available to other decomposer organisms. However, the increased litter decomposition in the presence of arbuscular mycorrhiza was attributed to their saprotrophic capabilities, which tend to acquire nutrients directly from organic matter (Hodge et al. 2001, Herman et al. 2012). Further, both ectomycorrhizal (Brzostek et al. 2015) and arbuscular mycorrhizal fungi (Herman et al. 2012) are observed to increase the activity of microbial communities by providing plant-based carbon sources. Since microbial communities are associated with the breakdown of complex compounds and the release of nutrients, their increased activity enhances the litter decomposition rate (Schneider et al. 2012).
+
 Although our meta-analysis supports the mycorrhizal mediated slower decomposition rates known as ‘Gadgil effect’, it suffers from limitations and caveats. Litter decomposition in natural ecosystems is regulated by a complex interaction of several factors (climate, soil, plant, and mycorrhiza). Thus, between-study heterogeneity and publication bias can substantially compromise the overall results. Further, our meta-analysis was based on a small number of studies, and only a single study represented tropical forests. Since tropical forests are under-represented in our analysis, it may be possible that observed negative effects of mycorrhiza are localized to temperate forests.
+
 Similarly, all the eligible studies considered only leaf litter for decomposition, the inclusion of litter from other sources might lead to variation in the results. Also, we were not able to conduct subgroup analysis or effects of moderator variables due to data limitation or sample bias. Moreover, we have not considered the actual sample size, mean, and variation of measurements; instead, we considered the number of data points as the sample size. Finally, as with any systematic exercise, deviation from the systematic protocol (searching keywords, eligibility criteria) may lead to different results. 
+
 We encourage researchers to consider the known limitations of the present study. We observed that most studies considered leaf litter and litter from other sources (root, shoot, and wood) is lacking. Thus, there is a need to experiment with other litter along with leaves litter. Further, we suggest the inclusion of the following treatments in future experiments: litter with/without mycorrhiza in different types of forest ecosystem, i.e., temperate versus tropical, temperate deciduous forest versus temperate evergreen forest; litter with/without mycorrhiza in the field and litter with/without mycorrhiza in the laboratory; litter with/without mycorrhiza with different concentration of mycorrhiza; litter with/without mycorrhiza with the different mesh size of bags; and litter with/without mycorrhiza with different depth of trenching.
 
 ## Conclusions
@@ -192,7 +339,3 @@ The authors are grateful to the Chairperson, Department of Botany, Panjab Univer
 
 ## Authors' contribution {.appendix}
 MP and AK have equally contributed to this study. ANS, MP, and AK conceptualized and designed the study. MP, AK and PK carried out literature surveys, article screening and data extraction. MP and AK statistically analyzed the data and prepared visualizations. MP and AK wrote the original draft of the manuscript. MP, AK and ANS further edited and revised the manuscript. ANS supervised the whole progress of the study and manuscript preparation. All authors have read and approved the current version of the manuscript for the publication.
-
-
-
-

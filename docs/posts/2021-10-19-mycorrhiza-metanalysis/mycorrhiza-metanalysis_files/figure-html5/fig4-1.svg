@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='432.00pt' viewBox='0 0 576.00 432.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTUuODR8NTYwLjE2fDQ0LjY0fDM1OC41Ng=='>
+    <rect x='15.84' y='44.64' width='544.32' height='313.92' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTUuODR8NTYwLjE2fDQ0LjY0fDM1OC41Ng==)'>
+<line x1='15.84' y1='100.98' x2='560.16' y2='100.98' style='stroke-width: 0.75;' />
+<line x1='364.20' y1='358.56' x2='364.20' y2='100.98' style='stroke-width: 0.75; stroke-dasharray: 1.00,3.00;' />
+<line x1='305.66' y1='324.57' x2='390.94' y2='324.57' style='stroke-width: 0.75; stroke: #7F7F7F; stroke-dasharray: 1.00,3.00;' />
+<line x1='305.66' y1='326.67' x2='305.66' y2='322.48' style='stroke-width: 0.75; stroke: #7F7F7F;' />
+<line x1='390.94' y1='326.67' x2='390.94' y2='322.48' style='stroke-width: 0.75; stroke: #7F7F7F;' />
+<polygon points='332.95,324.57 348.30,321.44 363.65,324.57 348.30,327.71 ' style='stroke-width: 0.75; fill: #FF0000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<line x1='277.11' y1='358.56' x2='407.75' y2='358.56' style='stroke-width: 0.75;' />
+<line x1='277.11' y1='358.56' x2='277.11' y2='365.76' style='stroke-width: 0.75;' />
+<line x1='298.89' y1='358.56' x2='298.89' y2='365.76' style='stroke-width: 0.75;' />
+<line x1='320.66' y1='358.56' x2='320.66' y2='365.76' style='stroke-width: 0.75;' />
+<line x1='342.43' y1='358.56' x2='342.43' y2='365.76' style='stroke-width: 0.75;' />
+<line x1='364.20' y1='358.56' x2='364.20' y2='365.76' style='stroke-width: 0.75;' />
+<line x1='385.98' y1='358.56' x2='385.98' y2='365.76' style='stroke-width: 0.75;' />
+<line x1='407.75' y1='358.56' x2='407.75' y2='365.76' style='stroke-width: 0.75;' />
+<text x='277.11' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='10.67px' lengthAdjust='spacingAndGlyphs'>-4</text>
+<text x='298.89' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='10.67px' lengthAdjust='spacingAndGlyphs'>-3</text>
+<text x='320.66' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='10.67px' lengthAdjust='spacingAndGlyphs'>-2</text>
+<text x='342.43' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='10.67px' lengthAdjust='spacingAndGlyphs'>-1</text>
+<text x='364.20' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='385.98' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='407.75' y='384.48' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='342.43' y='406.08' text-anchor='middle' style='font-size: 12.00px; font-family: Arial;' textLength='161.90px' lengthAdjust='spacingAndGlyphs'>Standardized Mean Difference</text>
+</g>
+<g clip-path='url(#cpMTUuODR8NTYwLjE2fDQ0LjY0fDM1OC41Ng==)'>
+<line x1='368.58' y1='279.86' x2='394.16' y2='279.86' style='stroke-width: 0.75;' />
+<line x1='368.58' y1='281.95' x2='368.58' y2='277.76' style='stroke-width: 0.75;' />
+<line x1='394.16' y1='281.95' x2='394.16' y2='277.76' style='stroke-width: 0.75;' />
+<line x1='350.99' y1='257.50' x2='385.91' y2='257.50' style='stroke-width: 0.75;' />
+<line x1='350.99' y1='259.59' x2='350.99' y2='255.40' style='stroke-width: 0.75;' />
+<line x1='385.91' y1='259.59' x2='385.91' y2='255.40' style='stroke-width: 0.75;' />
+<line x1='342.45' y1='235.14' x2='377.37' y2='235.14' style='stroke-width: 0.75;' />
+<line x1='342.45' y1='237.23' x2='342.45' y2='233.05' style='stroke-width: 0.75;' />
+<line x1='377.37' y1='237.23' x2='377.37' y2='233.05' style='stroke-width: 0.75;' />
+<line x1='333.56' y1='212.78' x2='359.21' y2='212.78' style='stroke-width: 0.75;' />
+<line x1='333.56' y1='214.87' x2='333.56' y2='210.69' style='stroke-width: 0.75;' />
+<line x1='359.21' y1='214.87' x2='359.21' y2='210.69' style='stroke-width: 0.75;' />
+<line x1='327.08' y1='190.42' x2='363.53' y2='190.42' style='stroke-width: 0.75;' />
+<line x1='327.08' y1='192.51' x2='327.08' y2='188.33' style='stroke-width: 0.75;' />
+<line x1='363.53' y1='192.51' x2='363.53' y2='188.33' style='stroke-width: 0.75;' />
+<line x1='322.50' y1='168.06' x2='359.71' y2='168.06' style='stroke-width: 0.75;' />
+<line x1='322.50' y1='170.15' x2='322.50' y2='165.97' style='stroke-width: 0.75;' />
+<line x1='359.71' y1='170.15' x2='359.71' y2='165.97' style='stroke-width: 0.75;' />
+<line x1='301.24' y1='145.70' x2='343.38' y2='145.70' style='stroke-width: 0.75;' />
+<line x1='301.24' y1='147.80' x2='301.24' y2='143.61' style='stroke-width: 0.75;' />
+<line x1='343.38' y1='147.80' x2='343.38' y2='143.61' style='stroke-width: 0.75;' />
+<line x1='295.73' y1='123.34' x2='335.44' y2='123.34' style='stroke-width: 0.75;' />
+<line x1='295.73' y1='125.44' x2='295.73' y2='121.25' style='stroke-width: 0.75;' />
+<line x1='335.44' y1='125.44' x2='335.44' y2='121.25' style='stroke-width: 0.75;' />
+<text x='23.04' y='282.72' style='font-size: 12.00px; font-family: Arial;' textLength='72.72px' lengthAdjust='spacingAndGlyphs'>Pinus strobus</text>
+<text x='23.04' y='260.36' style='font-size: 12.00px; font-family: Arial;' textLength='113.42px' lengthAdjust='spacingAndGlyphs'>Betula alleghaniensis</text>
+<text x='23.04' y='238.00' style='font-size: 12.00px; font-family: Arial;' textLength='108.73px' lengthAdjust='spacingAndGlyphs'>Dicymbe corymbosa</text>
+<text x='23.04' y='215.64' style='font-size: 12.00px; font-family: Arial;' textLength='110.07px' lengthAdjust='spacingAndGlyphs'>Quercus ellipsoidalis</text>
+<text x='23.04' y='193.29' style='font-size: 12.00px; font-family: Arial;' textLength='92.06px' lengthAdjust='spacingAndGlyphs'>Fagus grandifolia</text>
+<text x='23.04' y='170.93' style='font-size: 12.00px; font-family: Arial;' textLength='105.39px' lengthAdjust='spacingAndGlyphs'>Fraxinus americana</text>
+<text x='23.04' y='148.57' style='font-size: 12.00px; font-family: Arial;' textLength='86.72px' lengthAdjust='spacingAndGlyphs'>Acer saccharum</text>
+<text x='23.04' y='126.21' style='font-size: 12.00px; font-family: Arial;' textLength='62.70px' lengthAdjust='spacingAndGlyphs'>Pinus rigida</text>
+<text x='142.79' y='282.72' style='font-size: 12.00px; font-family: Arial;' textLength='121.41px' lengthAdjust='spacingAndGlyphs'>Fernandez et al (2020)</text>
+<text x='142.79' y='260.36' style='font-size: 12.00px; font-family: Arial;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Lang et al (2021)</text>
+<text x='142.79' y='238.00' style='font-size: 12.00px; font-family: Arial;' textLength='123.41px' lengthAdjust='spacingAndGlyphs'>Mayor &amp; Henkel (2006)</text>
+<text x='142.79' y='215.64' style='font-size: 12.00px; font-family: Arial;' textLength='121.41px' lengthAdjust='spacingAndGlyphs'>Fernandez et al (2020)</text>
+<text x='142.79' y='193.29' style='font-size: 12.00px; font-family: Arial;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Lang et al (2021)</text>
+<text x='142.79' y='170.93' style='font-size: 12.00px; font-family: Arial;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Lang et al (2021)</text>
+<text x='142.79' y='148.57' style='font-size: 12.00px; font-family: Arial;' textLength='90.73px' lengthAdjust='spacingAndGlyphs'>Lang et al (2021)</text>
+<text x='142.79' y='126.21' style='font-size: 12.00px; font-family: Arial;' textLength='124.75px' lengthAdjust='spacingAndGlyphs'>Zhu &amp; Ehrenfeld (1996)</text>
+<text x='552.96' y='282.72' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='96.74px' lengthAdjust='spacingAndGlyphs'> 0.79 [ 0.20,  1.38]</text>
+<text x='552.96' y='260.36' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='97.40px' lengthAdjust='spacingAndGlyphs'> 0.19 [-0.61,  1.00]</text>
+<text x='552.96' y='238.00' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.06px' lengthAdjust='spacingAndGlyphs'>-0.20 [-1.00,  0.60]</text>
+<text x='552.96' y='215.64' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.73px' lengthAdjust='spacingAndGlyphs'>-0.82 [-1.41, -0.23]</text>
+<text x='552.96' y='193.29' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.73px' lengthAdjust='spacingAndGlyphs'>-0.87 [-1.71, -0.03]</text>
+<text x='552.96' y='170.93' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.73px' lengthAdjust='spacingAndGlyphs'>-1.06 [-1.92, -0.21]</text>
+<text x='552.96' y='148.57' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.73px' lengthAdjust='spacingAndGlyphs'>-1.92 [-2.89, -0.96]</text>
+<text x='552.96' y='126.21' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.73px' lengthAdjust='spacingAndGlyphs'>-2.23 [-3.14, -1.32]</text>
+<text x='552.96' y='327.44' text-anchor='end' style='font-size: 12.00px; font-family: Arial;' textLength='98.73px' lengthAdjust='spacingAndGlyphs'>-0.73 [-1.44, -0.03]</text>
+<polygon points='377.32,283.91 385.42,283.91 385.42,275.81 377.32,275.81 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='365.84,260.11 371.06,260.11 371.06,254.88 365.84,254.88 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='357.30,237.75 362.52,237.75 362.52,232.53 357.30,232.53 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='342.34,216.82 350.42,216.82 350.42,208.74 342.34,208.74 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='342.95,192.78 347.66,192.78 347.66,188.06 342.95,188.06 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='338.88,170.29 343.33,170.29 343.33,165.84 338.88,165.84 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='320.96,147.05 323.66,147.05 323.66,144.35 320.96,144.35 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<polygon points='313.80,125.13 317.37,125.13 317.37,121.56 313.80,121.56 ' style='stroke-width: 0.75; stroke: none; fill: #000000;' />
+<line x1='15.84' y1='302.22' x2='560.16' y2='302.22' style='stroke-width: 0.75;' />
+<text x='23.04' y='81.49' style='font-size: 12.00px; font-weight: bold; font-family: Arial;' textLength='45.37px' lengthAdjust='spacingAndGlyphs'>Species</text>
+<text x='552.96' y='81.49' text-anchor='end' style='font-size: 12.00px; font-weight: bold; font-family: Arial;' textLength='77.36px' lengthAdjust='spacingAndGlyphs'>SMD [95% CI]</text>
+<text x='23.04' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='83.04px' lengthAdjust='spacingAndGlyphs'>RE Model (Q = </text>
+<text x='106.08' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='30.03px' lengthAdjust='spacingAndGlyphs'>47.55</text>
+<text x='136.12' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='30.36px' lengthAdjust='spacingAndGlyphs'>, df = </text>
+<text x='166.47' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>7</text>
+<text x='173.15' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='27.02px' lengthAdjust='spacingAndGlyphs'>, p = </text>
+<text x='200.17' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='23.36px' lengthAdjust='spacingAndGlyphs'>0.00</text>
+<text x='223.52' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='6.67px' lengthAdjust='spacingAndGlyphs'>; </text>
+<text x='230.19' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='3.33px' lengthAdjust='spacingAndGlyphs'>I</text>
+<text x='233.52' y='320.96' style='font-size: 8.40px; font-family: Arial;' textLength='4.67px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='238.19' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='13.68px' lengthAdjust='spacingAndGlyphs'> = </text>
+<text x='251.87' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='23.36px' lengthAdjust='spacingAndGlyphs'>85.1</text>
+<text x='275.23' y='326.87' style='font-size: 12.00px; font-family: Arial;' textLength='14.67px' lengthAdjust='spacingAndGlyphs'>%)</text>
+<text x='139.94' y='82.92' style='font-size: 12.00px; font-weight: bold; font-family: Arial;' textLength='107.14px' lengthAdjust='spacingAndGlyphs'>Author(s) and Year</text>
+<text x='23.04' y='349.80' style='font-size: 12.00px; font-family: Arial;' textLength='258.60px' lengthAdjust='spacingAndGlyphs'>Test for overall effect size (Z = -2.031, p = 0.042)</text>
+</g>
+</svg>
